@@ -10,12 +10,10 @@ The Bamazon Customer Portal allows users to view the current items available for
 ![image](https://user-images.githubusercontent.com/24906805/57897650-d8eb5280-7823-11e9-8f6c-d8089a707bf8.png)
 
 UCF Coding Bootcamp
-
-May 2019
+ May 2019
 
 Technologies Used:
-
--Javascript
+- Javascript
 - nodeJS
 - MySQL
 - NPM packages:

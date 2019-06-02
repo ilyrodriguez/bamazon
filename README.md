@@ -13,10 +13,10 @@ UCF Coding Bootcamp  -  May 2019
 
 Technologies Used:
 - Javascript
-- nodeJS
+- Node.Js
 - MySQL
 - NPM packages:
-  - mysql
+  - Mysql
   - Inquirer.js
-  - colors
-  - cli-table
+  - Colors
+  - Cli-table

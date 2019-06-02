@@ -1,5 +1,6 @@
 # bamazon
-###CLI app
+### CLI app
+
 The Bamazon Customer Portal allows users to view the current items available for purchase. The user will select the item they want to purchase and how many items they will purchase. If the item is in stock, the order will be completed and the user will see the total amount of their purchase. 
 
 ![image](https://user-images.githubusercontent.com/24906805/57897571-6a0df980-7823-11e9-80e9-96a34977f805.png)

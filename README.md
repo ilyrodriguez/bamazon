@@ -16,7 +16,7 @@ Technologies Used:
 -Javascript
 - nodeJS
 - MySQL
-- npm packages:
+- NPM packages:
   - mysql
   - Inquirer.js
   - colors
